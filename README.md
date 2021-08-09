@@ -1,4 +1,4 @@
-### Oii 👋
+### Hi, I'm Daniel 👋
 
 
 - 🔭 I’m currently working on Develop my programming skills
